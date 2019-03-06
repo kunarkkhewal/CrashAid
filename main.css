@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #29485a;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+textarea {
+    display: block;
+    margin: 50px auto;
+    width: 500px;
+}
+
+div{
+    margin: 50px auto;
+}
+
+p{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
